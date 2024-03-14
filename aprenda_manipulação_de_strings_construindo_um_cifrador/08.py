@@ -7,5 +7,5 @@
 # Modifique sua chamada de print() para imprimir o tipo de dado da variável text.
 
 
-text = 'Hello World'
+text = "Hello World"
 print(type(text))

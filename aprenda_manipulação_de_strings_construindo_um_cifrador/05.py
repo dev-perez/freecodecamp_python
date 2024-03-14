@@ -16,5 +16,5 @@
 # imprima apenas o caractere no índice 6.
 
 
-text = 'Hello World'
+text = "Hello World"
 print(text[6])
