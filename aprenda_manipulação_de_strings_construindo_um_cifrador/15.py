@@ -2,7 +2,7 @@
 # Em seguida, imprima a variável index no console.
 
 
-text = "hello world"
+text = "Hello World"
 print(text.find("w"))
 alphabet = "abcdefghijklmnopqrstuvwxyz"
 index = alphabet.find(text[0])
