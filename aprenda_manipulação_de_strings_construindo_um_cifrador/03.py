@@ -12,4 +12,5 @@
 # Você não deverá ver nenhuma saída ainda.
 
 
+text = "Hello World"
 print()

@@ -5,7 +5,8 @@
 
 
 text = "Hello World"
-print(text.find("w"))
+shift = 3
+print(text.find("W"))
 alphabet = "abcdefghijklmnopqrstuvwxyz"
 index = alphabet.find(text[0].lower())
 print(index)

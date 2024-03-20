@@ -21,7 +21,8 @@
 # a um objeto (você aprenderá mais sobre isso em outro projeto).
 
 
-text = "hello world"
-print(text.find("w"))
+text = "Hello World"
+shift = 3
+print(text.find("W"))
 alphabet = "abcdefghijklmnopqrstuvwxyz"
-print(alphabet.find(text[0]))
+alphabet.find(text[0])

@@ -9,7 +9,8 @@
 
 
 text = "hello world"
-print(text.find("w"))
+shift = 3
+print(text.find("W"))
 alphabet = "abcdefghijklmnopqrstuvwxyz"
 print(alphabet.find(text[0]))
 index = alphabet.find(text[0])

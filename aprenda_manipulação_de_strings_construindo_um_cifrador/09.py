@@ -6,4 +6,6 @@
 # e atribua o valor 3 a essa variável.
 
 
+text = "Hello World"
+print(len(text))
 shift = 3
