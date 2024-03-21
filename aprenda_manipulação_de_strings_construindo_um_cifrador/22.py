@@ -17,7 +17,7 @@
 #  Use i como a variável de loop.
 
 
-text = "Hello World"
-shift = 3
-alphabet = "abcdefghijklmnopqrstuvwxyz"
-for i in text:
+# text = "Hello World"
+# shift = 3
+# alphabet = "abcdefghijklmnopqrstuvwxyz"
+# for i in text:
